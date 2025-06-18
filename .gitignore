@@ -31,3 +31,4 @@ datasets/updated_NBA_Data_With_Standing - Kopya.csv
 __pycache__/
 
 
+!.gitignore
