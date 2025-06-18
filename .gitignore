@@ -27,3 +27,7 @@ datasets/Test_preprocess.csv
 datasets/train_features.csv
 datasets/Train_preprocess.csv
 datasets/updated_NBA_Data_With_Standing - Kopya.csv
+.gitignore
+__pycache__/
+
+
